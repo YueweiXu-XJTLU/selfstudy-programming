@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bookstore>
+    <book category="fiction">
+        <title lang="en">The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <year>1925</year>
+        <price>10.99</price>
+    </book>
+    <book category="non-fiction">
+        <title lang="en">Sapiens: A Brief History of Humankind</title>
+        <author>Yuval Noah Harari</author>
+        <year>2014</year>
+        <price>15.99</price>
+    </book>
+</bookstore>

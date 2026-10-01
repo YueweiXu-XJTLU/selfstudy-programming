@@ -1,0 +1,9 @@
+Student
+name : San.Zhang
+age : 19
+gender : M
+----------
+Teacher
+name : Si.Li
+age : 30
+----------
